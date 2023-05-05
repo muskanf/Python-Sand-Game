@@ -4,10 +4,12 @@ I created a program that simulates a falling sand world. The user can interact w
 
 In floor mode, the user can create floor regions by pressing, dragging, and releasing the mouse. When sand subsequently drops onto a region of floor, it will stay there rather than continue to fall.
 
-I also implemented two additional behaviors:
+I also implemented three additional behaviors:
 
     Sand flowing when it piles up
-    Rain sprinkling down, then flowing sideways until it hits sand, floor, or the sides of the canvas
+    Rain sprinkling down, then flowing sideways until it hits sand, floor, or the sides of the canvas. Press 'W' key.
+    Marbles flowing down. Press 'M' key.
+    
 
 The program is written in Python and uses the dudraw library. Here are pictures of the project:
 
